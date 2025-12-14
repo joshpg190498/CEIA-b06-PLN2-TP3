@@ -33,9 +33,9 @@ La interfaz está construida con **Streamlit**, mientras que la recuperación se
 ├── app.py
 ├── config.py
 ├── data/
-│   ├── cv_jose_perez.txt
-│   ├── cv_ana.txt
-│   └── cv_pedro.txt
+│   ├── cv_1.txt
+│   ├── cv_2.txt
+│   └── ...
 ├── services/
 │   ├── rag/
 │   ├── agents/
@@ -117,4 +117,5 @@ http://localhost:8501
 - Memoria conversacional entre preguntas.
 
 ### Autor
+
 **José Luis Perez Galindo**  

@@ -1,0 +1,51 @@
+Luis Alberto Hidalgo Quispe
+Cloud Architect | DevOps Engineer | Distributed Systems
+Perú
+
+Contacto:
+Tel: (+51) 987 554 110
+Email: lahidalgo.cloud@gmail.com
+LinkedIn: https://www.linkedin.com/in/luis-hidalgo-devops
+
+Aptitudes principales:
+- AWS Architecture
+- Kubernetes
+- Terraform
+- CI/CD Automation
+- Python
+- Observability
+- FinOps
+
+Certificaciones:
+- AWS Solutions Architect – Professional
+- Certified Kubernetes Administrator (CKA)
+- Terraform Associate
+- SRE Foundations
+
+Publicaciones:
+- High-availability Architectures for Retail POS Systems
+- Cost-efficient Cloud Migration Strategies for Large Inventories
+- Automated CI/CD for Multi-store E-commerce Platforms
+
+Extracto:
+Arquitecto cloud con 6+ años de experiencia diseñando plataformas escalables para retail y logística. Especializado en migraciones a AWS, automatización CI/CD, IaC y optimización de costos. Enfocado en resiliencia operativa y sistemas distribuidos.
+
+Experiencia:
+
+FastRetail Perú
+Cargo: Senior Cloud Architect
+Fecha: Enero 2024 – Presente, Lima
+Responsabilidades: Arquitectura serverless, optimización de costos, observabilidad.
+
+RetailMax Latam
+Cargo: DevOps Engineer
+Fecha: Agosto 2021 – Diciembre 2023
+Responsabilidades: Automatización CI/CD, migración a Kubernetes, despliegues blue-green.
+
+LogistiCloud
+Cargo: Cloud Engineer
+Fecha: Julio 2019 – Julio 2021
+Responsabilidades: Terraform IaC, redes VPC, monitorización con Prometheus y Grafana.
+
+Educación:
+Universidad de Lima – Bachelor's Degree, Systems Engineering (2014–2019)

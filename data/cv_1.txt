@@ -1,0 +1,84 @@
+Jose Luis Perez Galindo
+Software Developer | Full Stack Developer | AI & ML Enthusiast | IoT Specialist | Digital Transformation | Industry 4.0
+Perú
+
+Contacto
+Tel: (+51) 996569361
+Email: joseperez190498@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/jose-pg
+
+Aptitudes principales
+Microsoft SQL Server
+Web Service Development
+Java
+
+Certificaciones
+Programa UI Design
+Curso Práctico de Node.js
+Improving Query Performance in SQL Server
+Introduction to Relational Databases in SQL
+Curso de Fundamentos de Node.js
+
+Publicaciones
+SMS-based ON/OFF monitor for electronic devices
+Implementation of an active-filtering circuit for electroencephalographic signal acquisition using an 8-bit microcontroller
+Sistema portátil de adquisición geolocalizada de concentración de plomo en ríos por medio de voltametría
+
+Extracto
+Ingeniero Electrónico de la UTEC y estudiante de la Maestría en Computación de Borde de la UBA con más de 5 años de experiencia en Desarrollo de Software. He trabajado en proyectos de Desarrollo Web, Transformación Digital, Sistemas Autónomos, IoT e Industria 4.0 utilizando JavaScript, TypeScript, Python, Go y C++. Poseo conocimientos sólidos en Arquitectura de Software, Estructuras de Datos, Algoritmos, Cloud Computing y Bases de datos. Interesado en integrar IA, ML y tecnologías emergentes para crear soluciones innovadoras y eficientes.
+
+Experiencia
+
+Ferreyros S.A.
+Senior Technology Project Developer
+Octubre 2025 - Presente, Lima
+Responsable de definir arquitecturas de software y hardware para adquisición y procesamiento de datos. Gestión de proyectos tecnológicos con clientes y equipos externos. Diseño e implementación de soluciones backend y frontend.
+
+Ferreyros S.A.
+Technology Project Developer
+Septiembre 2024 - Octubre 2025, Lima
+Diseño de arquitecturas de soluciones escalables y seguras. Gestión de proyectos y coordinación con equipos de desarrollo. Implementación de software para adquisición, procesamiento y visualización de datos.
+
+Ferreyros S.A.
+Junior Technology Project Developer
+Julio 2022 - Agosto 2024, Lima
+Implementación de arquitecturas cliente-servidor utilizando MQTT y SFTP. Desarrollo de pipelines de datos con compresión y encriptación. Desarrollo web con Angular y Node.js usando microservicios y estándares OWASP.
+
+Minestar
+Data Analytics Analyst
+Abril 2021 - Junio 2022, Lima
+Procesamiento y gestión de datos desde equipos mineros en SQL Server. Transformación de datos desde estado raw hacia estructuras optimizadas. Desarrollo y optimización de procesos ETL.
+
+Pradera Technologies
+Junior Engineer
+Octubre 2020 - Febrero 2021, Lima
+Desarrollo de aplicaciones web con Angular y Spring Boot. Desarrollo de APIs y microservicios en Java y Node.js.
+
+Ferreyros S.A.
+Electrical Support Intern
+Enero 2020 - Marzo 2020, Lima
+
+Universidad de Ingeniería y Tecnología - UTEC
+Teacher Assistant
+Agosto 2019 - Enero 2020
+Research Assistant
+Diciembre 2018 - Julio 2019
+
+Educación
+
+Universidad de Buenos Aires
+Master of Science (MS), Edge Computing
+Agosto 2023 - Octubre 2025
+
+Universidad de Buenos Aires
+Especialización, Internet of Things
+Agosto 2023 - Septiembre 2024
+
+Universidad de Ingeniería y Tecnología - UTEC
+Bachelor's Degree, Electronic Engineering
+2015 - 2020
+
+Colegio Mayor Secundario Presidente del Perú - COAR Lima
+High School
+2012 - 2014

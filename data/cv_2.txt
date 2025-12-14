@@ -1,0 +1,51 @@
+María Fernanda Rojas Castillo
+Data Scientist | Machine Learning Specialist | Healthcare Analytics
+Perú
+
+Contacto:
+Tel: (+51) 945 223 017
+Email: mf.rojas.castillo@gmail.com
+LinkedIn: https://www.linkedin.com/in/mfrojas-ds
+
+Aptitudes principales:
+- Machine Learning
+- Python
+- Health Data Pipelines
+- SQL
+- TensorFlow
+- Data Visualization (Tableau)
+
+Certificaciones:
+- Applied Data Science with Python
+- Machine Learning for Healthcare
+- Advanced SQL for Analytics
+- Deploying ML Models with Docker & Kubernetes
+
+Publicaciones:
+- Predictive Modelling for Early Sepsis Detection in ICU Environments
+- Machine Learning–based Triage System for High-flow Emergency Departments
+- Population-level Drug Adherence Prediction Using Time-Series Modelling
+
+Extracto:
+Científica de datos con experiencia en HealthTech, desarrollando modelos predictivos, pipelines para datos clínicos y despliegue de soluciones ML. Interesada en IA responsable y sistemas de apoyo a decisiones médicas.
+
+Experiencia:
+
+Salud Digital Perú
+Cargo: Senior Data Scientist
+Fecha: Mayo 2024 – Presente, Lima
+Responsabilidades: Desarrollo de modelos predictivos, arquitectura ML End-to-End, despliegue seguro de modelos clínicos.
+
+Hospital Nacional Edgardo Rebagliati
+Cargo: Data Scientist
+Fecha: Febrero 2022 – Abril 2024
+Responsabilidades: Análisis clínico, modelos de riesgo, optimización operativa.
+
+Universidad Peruana Cayetano Heredia
+Cargo: Research Data Analyst
+Fecha: Febrero 2021 – Enero 2022
+Responsabilidades: Modelamiento estadístico, análisis epidemiológicos, estudios poblacionales.
+
+Educación:
+Pontificia Universidad Católica del Perú – Master of Science, Data Science (2022–2024)
+Universidad Nacional Mayor de San Marcos – Bachelor's Degree, Statistics (2015–2020)
